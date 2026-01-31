@@ -1,0 +1,26 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Joe's BBQ Shack",
+      "category": "BBQ",
+      "location": "Jonesboro, AR",
+      "images": [
+        "images/joes-bbq-1.jpg",
+        "images/joes-bbq-2.jpg",
+        "images/joes-bbq-3.jpg"
+      ],
+      "ratings": {
+        "foodQuality": 10,
+        "value": 2.75,
+        "service": 10,
+        "portionSize": 10,
+        "overall": 10
+      },
+      "wouldReturn": "Yes",
+      "review": "Perfectly smoked ribs with incredible bark and tender meat that falls off the bone - true BBQ mastery.",
+      "date": "2026-01-28",
+      "featured": true
+    }
+  ]
+}
